@@ -13,6 +13,7 @@ This paper is jointly complished by [Yongqiang Mou](https://github.com/AIKnowU) 
 Further information please contact [Yongqiang Mou](mainlto: yongqiang.mou@gmail.com)
 
 ## License and Citation
+'''
 @article{0Geometry,
   title={Geometry Supervised Pose Network for Accurate Retail Shelf Pose Estimation},
   author={ Mou, Yongqiang  and  Huang, Zhiyi  and  Lin, Lingfan  and  Guo, Yishi  and  Yang, Zhen },
@@ -21,3 +22,4 @@ Further information please contact [Yongqiang Mou](mainlto: yongqiang.mou@gmail.
   number={99},
   pages={1-1},
 }
+'''
