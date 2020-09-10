@@ -10,7 +10,7 @@ This is a GSPN which contains a GSL Module. Using VGG as backbone, I add GSL mod
 This paper is jointly complished by [Yongqiang Mou](https://github.com/AIKnowU) *，[Zhiyi Huang](https://github.com/Huang9495) (JXSTNUAA / AIBC)，Lingfan Lin ， Yishi Guo and [Zhen Yang](https://github.com/yangzhen5771) (JXSTNUAA / AIBC) in IEEE Transactions on Industrial Informatics (IEEE TII, IF=9.112) 2020。
 
 ![](file:///Users/wangyabei/Pictures/img/dataset.jpg)
-Further information please contact [[Yongqiang Mou]](mainlto: yongqiang.mou@gmail.com)
+Further information please contact [Yongqiang Mou](yongqiang.mou@gmail.com)
 
 ## License and Citation
 @article{0Geometry,
