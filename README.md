@@ -22,13 +22,18 @@ Further information please contact [Yongqiang Mou](yongqiang.mou@gmail.com)
 
 * Model-Site:
    ```
-   cd ~/project
-   python python test.py
+   链接:https://pan.baidu.com/s/1Pmi6bfbDok0VOlKjMOGDLA  
+   密码:uhnz
    ```  
 * Command:
    ```
    cd ~/project  
-   python python test.py
+   mkdir models
+   cp ./checkpoint.pth.tar ~/project/models
+   download datasets
+   mv ./traindata ~/project/dataset
+   cd ~/project/code
+   python python eval.py
    ```  
 
 ## License and Citation
