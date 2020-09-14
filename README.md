@@ -20,11 +20,16 @@ Further information please contact [Yongqiang Mou](yongqiang.mou@gmail.com)
 
 ### Testing
 
-Model-Site:
-   
-Command:
+* Model-Site:
+   ```
    cd ~/project
    python python test.py
+   ```  
+* Command:
+   ```
+   cd ~/project  
+   python python test.py
+   ```  
 
 ## License and Citation
 @article{0Geometry,
