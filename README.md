@@ -12,6 +12,20 @@ This paper is jointly complished by [Yongqiang Mou](https://github.com/AIKnowU) 
 ![](file:///Users/wangyabei/Pictures/img/dataset.jpg)
 Further information please contact [Yongqiang Mou](yongqiang.mou@gmail.com)
 
+## Requirements
+[PyTorch](https://pytorch.org/) (version >= 1.1.0)
+[Torchvision](https://pytorch.org/) (version >= 0.3.0)
+
+## Getting Started (Testing)
+
+### Testing
+
+Model-Site:
+   
+Command:
+   cd ~/project
+   python python test.py
+
 ## License and Citation
 @article{0Geometry,
   title={Geometry Supervised Pose Network for Accurate Retail Shelf Pose Estimation},
