@@ -46,7 +46,7 @@ L2SD | L2SD | RGB | 7.958◦ | 1.543◦ | 1.119◦ | 3.540◦
 GSPN | GSPN | RGB | 7.456◦ | 0.864◦ | 0.761◦ | 3.027◦
 
 ## Reference
-[1]. J. Lezama, and G. Randall R. G. V. Gioi, and J. M. Morel, “Finding vanishing points via point alignments in image primal and dual domains,” IEEE Computer Vision and Pattern Recognition, pp. 509–515, Jun. 2014.
+[1]. J. Lezama, and G. Randall R. G. V. Gioi, and J. M. Morel, “Finding vanishing points via point alignments in image primal and dual domains,” IEEE Computer Vision and Pattern Recognition, pp. 509–515, Jun. 2014.  
 [2].  A. Kendall, M. Grimes, and R. Cipolla, “Posenet: A convolutional network for real-time 6-dof camera relocalization,” IEEE International Conference on Computer Vision, p. 265, Dec. 2015.
 
 ## License and Citation
